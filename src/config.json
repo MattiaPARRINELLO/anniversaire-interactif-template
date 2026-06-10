@@ -1,0 +1,374 @@
+{
+  "dates": {
+    "relationshipStart": "2024-01-15",
+    "unlock": "2025-06-01T00:00:00"
+  },
+  "intro": {
+    "label": "pour toi",
+    "lines": [
+      "Camille,",
+      "-----------",
+      "Parfois l'univers",
+      "Place deux personnes",
+      "Dans la même salle",
+      "Sans leur dire pourquoi",
+      "------------",
+      "Parfois on se retrouve",
+      "Par hasard",
+      "Sur un écran",
+      "À des kilomètres de distance",
+      "Et quelque chose",
+      "Qui n'aurait jamais dû exister",
+      "Commence à exister",
+      "------------",
+      "Cette petite chose",
+      "C'est pour toi"
+    ]
+  },
+  "music": {
+    "label": "notre chanson",
+    "src": "/music/your-song.mp3"
+  },
+  "sfx": {
+    "portalExplosion": "/sounds/portal-explosion.mp3",
+    "gemFound": "/sounds/gem-found.mp3",
+    "typewriter": "/sounds/typewriter.mp3",
+    "penWriting": "/sounds/pen-writing.mp3",
+    "starCatch": "/sounds/star-catch.mp3"
+  },
+  "timeline": [
+    {
+      "id": "first-meeting",
+      "date": "15 Janvier 2024",
+      "title": "Première rencontre",
+      "subtitle": "Le début de tout",
+      "message": "Ce jour-là, le hasard a bien fait les choses.\nOn ne se connaissait pas encore.\nMais quelque chose, quelque part,\navait déjà décidé.\n\nJe ne savais pas que cette rencontre\nallait changer ma vie.",
+      "photo": "/photos/timeline/placeholder.jpg"
+    },
+    {
+      "id": "first-date",
+      "date": "20 Février 2024",
+      "title": "Premier rendez-vous",
+      "subtitle": "Un moment suspendu",
+      "message": "Ce café était sensé durer une heure.\nOn est restés jusqu'à la fermeture.\n\nTu riais de tout et de rien.\nMoi je riais de te voir rire.\n\nCe soir-là j'ai su\nque quelque chose commençait.",
+      "photo": "/photos/timeline/placeholder.jpg"
+    },
+    {
+      "id": "relationship-start",
+      "date": "15 Mars 2024",
+      "title": "Le début de nous",
+      "subtitle": "heart",
+      "message": "Il y a des dates qu'on n'oublie pas.\n\nPas parce qu'elles sont écrites quelque part,\nmais parce qu'elles sont gravées\ndans une partie de soi\nqu'on ne savait pas encore exister.\n\nCe jour-là, tout a commencé.",
+      "photo": "/photos/timeline/placeholder.jpg"
+    },
+    {
+      "id": "first-trip",
+      "date": "Juillet 2024",
+      "title": "Premier voyage",
+      "subtitle": "Nos premières aventures",
+      "message": "Nos premières vacances ensemble.\nPerdus dans une ville inconnue,\navec une carte qui ne servait à rien\net des rires pour seul guide.\n\nOn s'est trompés de chemin\nune douzaine de fois,\net chaque fois c'était parfait.",
+      "photo": "/photos/timeline/placeholder.jpg"
+    },
+    {
+      "id": "anniversary",
+      "date": "1 Juin 2025",
+      "title": "Ton anniversaire",
+      "subtitle": "cake",
+      "message": "Aujourd'hui c'est le jour\noù le monde a eu de la chance.\nLa chance de te voir arriver,\navec ton rire,\nta douceur,\nta façon de rendre la vie\nun peu plus belle\njuste en étant là.\n\nJoyeux anniversaire, Cami.\nQue cette année soit à ton image.",
+      "photo": "/photos/timeline/placeholder.jpg"
+    }
+  ],
+  "polaroids": [
+    {
+      "id": "memory-1",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ notre premier café ~",
+      "date": "Février 2024",
+      "rotation": -2,
+      "hiddenMessage": "Je me souviens de ce moment comme si c'était hier. L'odeur du café, le bruit des tasses, et toi qui souriais derrière ta tasse.",
+      "tapeStyle": "top",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-2",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ ton rire ~",
+      "date": "2024",
+      "rotation": 3,
+      "hiddenMessage": "Il y a quelque chose de particulièrement doux dans ton rire. Un mélange de légèreté et de sincérité qui rend tout plus lumineux.",
+      "tapeStyle": "both",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-3",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ notre endroit ~",
+      "date": "2024",
+      "rotation": -1,
+      "hiddenMessage": "Cet endroit est devenu le nôtre sans qu'on le décide. Parfois les meilleures choses arrivent comme ça, sans prévenir.",
+      "tapeStyle": "side",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-4",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ soirée jeux ~",
+      "date": "2024",
+      "rotation": 2,
+      "hiddenMessage": "On ne se dit rien pendant vingt minutes et c'est parfait. Juste être ensemble, sans rien avoir à prouver.",
+      "tapeStyle": "top",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-5",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ nos nuits ~",
+      "date": "2024",
+      "rotation": -3,
+      "hiddenMessage": "Certaines choses n'ont pas besoin d'être dites pour être réelles. Comme ces nuits à parler jusqu'à ce que le soleil se lève.",
+      "tapeStyle": "both",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-6",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ nos découvertes ~",
+      "date": "2024",
+      "rotation": 1,
+      "hiddenMessage": "Chaque jour passé avec toi est une découverte. Même après tout ce temps, tu arrives encore à me surprendre.",
+      "tapeStyle": "side",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-7",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ ta voix avant de dormir ~",
+      "date": "2024",
+      "rotation": -2,
+      "hiddenMessage": "Il y a quelque chose de particulièrement doux dans ta voix quand tu t'endors. Comme si le monde devenait plus calme.",
+      "tapeStyle": "top",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-8",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ la complicité ~",
+      "date": "2024",
+      "rotation": 2,
+      "hiddenMessage": "Cette connexion silencieuse qu'on a, ces regards qui disent tout sans un mot. C'est rare, ce qu'on a.",
+      "tapeStyle": "both",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-9",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ un soir d'été ~",
+      "date": "Été 2024",
+      "rotation": -1,
+      "hiddenMessage": "Les nuits d'été nous appartiennent. La chaleur, les étoiles, et toi à mes côtés. Je n'ai jamais eu besoin de plus.",
+      "tapeStyle": "side",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-10",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ le début ~",
+      "date": "Mars 2024",
+      "rotation": 3,
+      "hiddenMessage": "Le jour où c'est devenu officiel. Le jour où j'ai arrêté d'avoir peur de ce que je ressentais.",
+      "tapeStyle": "top",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-11",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ nos conversations ~",
+      "date": "2024",
+      "rotation": -2,
+      "hiddenMessage": "3h du matin, 4h du matin, peu importe. Avec toi le temps passe différemment. Il s'étire. Il devient doux.",
+      "tapeStyle": "both",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    },
+    {
+      "id": "memory-12",
+      "image": "/photos/polaroids/placeholder.jpg",
+      "caption": "~ nous ~",
+      "date": "2024",
+      "rotation": 1,
+      "hiddenMessage": "Une rencontre par hasard. Une histoire qui n'aurait jamais dû exister. Et pourtant, nous voilà.",
+      "tapeStyle": "side",
+      "hasHotspot": false,
+      "hotspotX": 0,
+      "hotspotY": 0
+    }
+  ],
+  "openWhen": [
+    {
+      "slug": "sad",
+      "icon": "rain",
+      "title": "Ouvre quand tu es triste",
+      "message": "Cami,\n\nLa tristesse a cette façon cruelle de s'installer sans frapper. De rendre tout plus lourd, plus gris, plus silencieux.\n\nDans ces moments-là, j'aimerais être là. Pas forcément pour dire quelque chose, juste être là. Rester à côté sans que tu aies besoin de faire semblant d'aller bien.\n\nMais puisque je ne peux pas être là tout de suite, laisse-moi te dire ceci : ta tristesse est valide. Tu n'as pas à la justifier, à la minimiser, à t'excuser d'exister dedans.\n\nTu es quelqu'un qui aime la vie, qui aime les gens, qui met de la chaleur partout où tu passes. Et les gens comme toi ressentent parfois les choses plus fort que les autres. C'est un cadeau, même quand ça fait mal.\n\nPleure si tu en as besoin. Ensuite mange quelque chose de bon. Regarde quelque chose de bête qui te fait rire.\n\nEt souviens-toi que moi, je pense à toi. Tout le temps. Surtout les jours comme celui-là.",
+      "theme": "rain",
+      "secretLetter": "J",
+      "surprise": {
+        "type": "hidden_message",
+        "trigger": "tap_3_times",
+        "content": "Tu es la personne la plus forte que je connaisse. Même quand la tristesse est là, elle ne te définit pas."
+      }
+    },
+    {
+      "slug": "doubt",
+      "icon": "thought",
+      "title": "Ouvre quand tu doutes de toi",
+      "message": "Cami,\n\nJe sais que parfois la petite voix dans ta tête n'est pas très gentille avec toi. Qu'elle grossit les doutes et minimise tout ce que tu es.\n\nAlors laisse-moi être l'autre voix aujourd'hui.\n\nTu es quelqu'un de remarquable. Pas de façon spectaculaire, de façon réelle. Dans ta douceur, dans ta façon d'être avec les gens, dans ce rire que tu as qui ne ressemble à aucun autre.\n\nTu doutes de toi parce que tu es assez intelligente pour voir la complexité du monde. Mais ne confonds jamais l'humilité avec l'incapacité.\n\nCe que tu es suffit. Ce que tu es est même beaucoup.",
+      "theme": "stars",
+      "secretLetter": "E",
+      "surprise": {
+        "type": "hidden_message",
+        "trigger": "long_press",
+        "content": "Je te vois, Cami. Je vois tout ce que tu es."
+      }
+    },
+    {
+      "slug": "cant-sleep",
+      "icon": "moon",
+      "title": "Ouvre quand tu n'arrives pas à dormir",
+      "message": "Cami,\n\nIl est tard. Le monde dort. Et toi tu regardes le plafond en pensant à tout et à rien.\n\nFerme les yeux. Imagine ta respiration qui ralentit. Imagine que je suis là, quelque part, à l'autre bout du fil, qui m'endors moi aussi.\n\nOn est ensemble même dans le silence.",
+      "theme": "night",
+      "secretLetter": "T"
+    },
+    {
+      "slug": "sunny-day",
+      "icon": "sun",
+      "title": "Ouvre quand le soleil brille",
+      "message": "Cami,\n\nAujourd'hui le monde est beau et j'espère que tu le vois.\n\nCes jours-là sont faits pour être savourés lentement. Pour ouvrir la fenêtre, sentir l'air, sourire sans raison particulière.\n\nLe bonheur est fait de ces petits moments de lumière. Profite de cette journée, tu la mérites entièrement.",
+      "theme": "sunset",
+      "secretLetter": "A",
+      "surprise": {
+        "type": "photo_reveal",
+        "trigger": "swipe_up",
+        "content": "/photos/polaroids/placeholder.jpg"
+      }
+    },
+    {
+      "slug": "lonely",
+      "icon": "holding-heart",
+      "title": "Ouvre quand tu te sens seule",
+      "message": "Cami,\n\nLa solitude, c'est particulier. Ce n'est pas que personne ne t'aime, tu le sais. C'est juste qu'on voudrait parfois que les gens qu'on aime soient un peu plus près.\n\nJe pense à toi dans mes petits moments. Quand j'entends une chanson qui te ressemble. Quand quelque chose me fait rire et que tu es la première personne à qui j'ai envie de le dire.\n\nTu n'es jamais vraiment seule, Cami. Tu vis dans les pensées de quelqu'un qui t'aime profondément, même quand le silence semble trop grand.",
+      "theme": "cozy",
+      "secretLetter": "I",
+      "surprise": {
+        "type": "hidden_message",
+        "trigger": "tap_3_times",
+        "content": "Ferme les yeux et prends trois grandes respirations."
+      }
+    },
+    {
+      "slug": "overwhelmed",
+      "icon": "waves",
+      "title": "Ouvre quand tout va trop vite",
+      "message": "Cami,\n\nStop.\n\nJuste une seconde, stop.\n\nTu n'as pas besoin de tout gérer en même temps. Tu n'as pas besoin d'être parfaite, d'avoir toutes les réponses, de porter tout le monde tout en gardant le sourire.\n\nPose tout ça. Juste pour un moment.\n\nLe monde peut attendre. Les urgences sont rarement aussi urgentes qu'elles le prétendent.\n\nPrends soin de toi d'abord. Tout le reste après.",
+      "theme": "waves",
+      "secretLetter": "M"
+    },
+    {
+      "slug": "courage",
+      "icon": "muscle",
+      "title": "Ouvre quand tu as besoin de courage",
+      "message": "Cami,\n\nJe sais que tu as peur parfois. De l'inconnu, de l'échec, de ne pas être à la hauteur.\n\nMais laisse-moi te rappeler quelque chose.\n\nTu es quelqu'un qui a aimé sans filet. Qui a fait confiance quand c'était risqué. Qui a choisi quelque chose de rare et d'incertain et qui a dit oui quand même.\n\nC'est ça, le courage. Pas l'absence de peur, mais avancer malgré elle.\n\nTu l'as déjà fait. Tu le feras encore.\n\nVas-y. Tu es prête.",
+      "theme": "aurora",
+      "secretLetter": "E",
+      "surprise": {
+        "type": "hidden_message",
+        "trigger": "tap_3_times",
+        "content": "Chaque fois que tu as eu peur et que tu as avancé quand même, c'est du courage."
+      }
+    },
+    {
+      "slug": "just-because",
+      "icon": "heart",
+      "title": "Juste parce que je t'aime",
+      "message": "Cami,\n\nPas de raison particulière aujourd'hui. Pas de larmes à sécher, pas de peur à calmer, pas de défi à relever.\n\nJuste toi. Juste moi. Juste ça.\n\nJe voulais juste que tu saches que tu es aimée, pas pour ce que tu fais, pas pour qui tu essaies d'être, mais pour ce que tu es naturellement, sans effort.\n\nCette façon que tu as d'aimer les gens vraiment. De rire avec tout ton corps. De rêver les yeux grands ouverts. De rendre la vie plus douce juste en étant là.\n\nOn s'est trouvés par hasard, et malgré tout ce qui aurait pu ne jamais arriver,\n\nte voilà. Me voilà. Nous voilà.\n\nMerci, Cami. Pour tout. Pour toi.",
+      "theme": "golden",
+      "secretLetter": "",
+      "surprise": {
+        "type": "hidden_message",
+        "trigger": "tap_3_times",
+        "content": "Tu es la plus belle chose qui me soit arrivée."
+      }
+    }
+  ],
+  "mapLocations": [
+    {
+      "id": "first-meeting",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "title": "Notre première rencontre",
+      "date": "Janvier 2024",
+      "message": "Ce lieu restera gravé dans ma mémoire pour toujours. C'est ici que tout a commencé.",
+      "photo": "/photos/map/placeholder.jpg",
+      "icon": "sparkles"
+    },
+    {
+      "id": "first-date",
+      "lat": 48.86,
+      "lng": 2.34,
+      "title": "Notre premier rendez-vous",
+      "date": "Février 2024",
+      "message": "Notre premier rendez-vous officiel. J'étais nerveux, tu étais magnifique, c'était parfait.",
+      "photo": "/photos/map/placeholder.jpg",
+      "icon": "rose"
+    }
+  ],
+  "secrets": {
+    "passwordWord": "JETAIME",
+    "hotspotImageIndex": 3,
+    "hotspotX": 45,
+    "hotspotY": 30,
+    "hotspotMessage": "tu m'as trouvée...",
+    "starCatcherMessage": "tu es une collectionneuse d'étoiles, mon amour",
+    "nightGemMessage": "tu es resté un moment... merci d'être là",
+    "memoryGameMessage": "chaque souvenir retrouvé est un trésor...",
+    "quizMessage": "tu me connais mieux que personne..."
+  },
+  "loveReasons": [
+    { "word": "ton rire", "phrase": "Cette façon que tu as de rire avec tout ton corps, comme si le monde pouvait attendre." },
+    { "word": "ta voix", "phrase": "Ta voix le soir, douce, celle qui fait tout basculer." },
+    { "word": "tes yeux", "phrase": "Tes yeux quand tu regardes quelque chose qui te passionne. Ils brillent différemment." },
+    { "word": "ta douceur", "phrase": "Cette douceur inépuisable que tu as, même quand le monde est dur avec toi." },
+    { "word": "ton courage", "phrase": "Ta façon d'avancer même quand tu as peur. C'est ça, le courage." },
+    { "word": "ton coeur", "phrase": "Ton coeur si grand, si généreux, qui trouve toujours de la place pour les autres." },
+    { "word": "ton humour", "phrase": "Ton humour absurde qui me prend par surprise et me fait rire aux éclats." },
+    { "word": "ta lumière", "phrase": "Cette lumière que tu dégages, qui éclaire tout autour de toi sans même que tu t'en rendes compte." },
+    { "word": "ta sincérité", "phrase": "Ta façon de dire les choses, franchement, avec douceur et honnêteté." },
+    { "word": "ton sourire", "phrase": "Ton sourire quand tu es vraiment heureuse. Celui qui plisse tes yeux et illumine tout." },
+    { "word": "ta patience", "phrase": "Ta patience infinie avec moi, avec les autres, avec la vie." },
+    { "word": "ta loyauté", "phrase": "Ta fidélité envers ceux que tu aimes. Une fois que tu es là, tu es vraiment là." },
+    { "word": "ta passion", "phrase": "Les choses que tu aimes, tu les aimes avec tout ton coeur. C'est magnifique à voir." },
+    { "word": "ton imagination", "phrase": "Les mondes que tu inventes, les histoires que tu racontes." },
+    { "word": "tes câlins", "phrase": "La façon dont tu enlaces les gens, comme si tu voulais les protéger du monde entier." }
+  ],
+  "finalLetter": "Cami,\n\nTu viens de traverser notre histoire.\n\nDe notre première rencontre où l'univers nous a placés au même endroit sans nous le dire, jusqu'à ce premier rendez-vous où tout a changé.\n\nTu as cherché des secrets, attrapé des étoiles, visité des endroits cachés dans des messages que j'ai écrits pour toi dans un moment de tristesse, de doute, ou juste parce que je t'aime.\n\nEt maintenant tu es là, au bout de tout ça.\n\nJe ne sais pas ce que l'avenir nous réserve, et c'est ça qui est beau. Tout ce que je sais c'est que depuis que tu es entrée dans ma vie, le silence est moins lourd, les nuits sont moins longues, et l'idée de demain me fait moins peur.\n\nTu es la preuve que parfois l'univers place deux personnes au même endroit sans leur dire pourquoi... et qu'il faut juste être assez courageux pour écouter.\n\nJoyeux anniversaire, Cami.\n\nAvec tout ce que j'ai,\n- Moi"
+}
